@@ -1,0 +1,2 @@
+gatsby graphql :  "develop": "env-cmd -f .env.development gatsby develop",
+                  https://css-tricks.com/using-graphql-playground-with-gatsby/
